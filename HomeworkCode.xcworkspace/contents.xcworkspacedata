@@ -1,7 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
-   <FileRef
-      location = "group:Com/Com/Com.xcodeproj">
-   </FileRef>
+   <Group
+      location = "container:"
+      name = "Collection">
+      <FileRef
+         location = "group:MaxAndMin/MaxAndMin.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:CaculateAverage/CaculateAverage.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:SwapArrayElement/SwapArrayElement.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Control Flow">
+      <FileRef
+         location = "group:CalculateGradeLevel/CalculateGradeLevel.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:MonthInChinese/MonthInChinese.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:DayInChinese/DayInChinese.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:DayInMonth/DayInMonth.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:CaculateEvenDigitNumber/CaculateEvenDigitNumber.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:CaculateDigitSum/CaculateDigitSum.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Basics">
+      <FileRef
+         location = "group:TheLeftDigit/TheLeftDigit.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:ReverseInt/ReverseInt.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:IsPathagoras/IsPathagoras.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:AbsBiggerInt/AbsBiggerInt.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:BiggerInt/BiggerInt.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:SumSquare/SumSquare.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:IntByTwo/IntByTwo.xcodeproj">
+      </FileRef>
+   </Group>
 </Workspace>
